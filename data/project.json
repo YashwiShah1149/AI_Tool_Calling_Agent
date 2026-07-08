@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "project_name": "AI Assistant System",
+      "status": "In Progress",
+      "team": "Data Science"
+    },
+    {
+      "project_name": "Sales Dashboard",
+      "status": "Completed",
+      "team": "Business Intelligence"
+    },
+    {
+      "project_name": "Fraud Detection Model",
+      "status": "In Progress",
+      "team": "Machine Learning"
+    },
+    {
+      "project_name": "HR Automation Portal",
+      "status": "Pending",
+      "team": "Software Development"
+    },
+    {
+      "project_name": "Customer Segmentation",
+      "status": "Completed",
+      "team": "Analytics"
+    },
+    {
+      "project_name": "Inventory Forecasting",
+      "status": "In Progress",
+      "team": "Operations"
+    },
+    {
+      "project_name": "Chatbot Integration",
+      "status": "Testing",
+      "team": "AI Engineering"
+    },
+    {
+      "project_name": "Cybersecurity Monitoring",
+      "status": "Completed",
+      "team": "Security"
+    }
+  ]
+}

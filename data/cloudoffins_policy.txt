@@ -1,0 +1,75 @@
+Simplest RAG Company Handbook Dataset
+Cloudoffis Employee Handbook & Internal Knowledge Base
+Company Overview
+Cloudoffis is a technology company focused on cloud automation, AI-powered document processing, workflow
+optimization, and enterprise software solutions.
+Core company values:- Ownership- Transparency- Continuous Learning- Automation First- Customer Obsession- Fast Execution
+Standard office working hours: 9:30 AM to 6:30 PM IST.
+-------------------------------------------
+Leave Policy
+Casual Leave- 12 casual leaves per year- Maximum 3 consecutive casual leaves allowed without approval- Unused casual leaves cannot be carried forward
+Sick Leave- 10 sick leaves per year- Medical certificate required beyond 3 consecutive days
+Earned Leave- Eligible after 12 months- Carry forward allowed up to 20 days
+-------------------------------------------
+Work From Home Policy- 
+Hybrid work model- Minimum 3 office days per week- Tuesday and Thursday are mandatory office days- Work from home not allowed during client audit weeks without approval
+Permanent remote work may be approved for:- Medical reasons- Relocation- International employees
+-------------------------------------------
+Attendance Policy- 
+Employees arriving after 10:00 AM are marked late- 3 late marks convert into half-day leave deduction- Minimum 8 working hours required daily
+-------------------------------------------
+Laptop & Security Policy- 
+Office laptops must not be shared- Password protection mandatory- Confidential client files must not be uploaded to personal cloud storage- Public Wi-Fi should not be used without VPN
+Password Rules:- Minimum 10 characters- Must include uppercase, lowercase, number, special character- Password reset every 90 days
+-------------------------------------------
+AI Usage Policy
+Approved:- Email drafting- Meeting summaries- Documentation generation- Code assistance
+Restricted:- Uploading confidential client documents to public AI tools- Sharing passwords with AI systems- Generating fake invoices or forged signatures
+Employees must review AI-generated content before sharing externally.
+-------------------------------------------
+Client Communication Guidelines
+Employees must:- Use professional language- Avoid slang- Escalate critical issues immediately- Never commit unrealistic timelines
+Immediate escalation required for:- Production outages- Security incidents- Legal notices- Client data leaks
+-------------------------------------------
+Performance Review Process
+Reviews occur twice yearly.
+Evaluation criteria:- Technical skills- Ownership- Communication- Team collaboration- Delivery consistency
+High performers may receive:- Promotions- Leadership opportunities- Performance bonuses
+-------------------------------------------
+Software Development Guidelines
+Coding standards:- Use meaningful variable names- Avoid hardcoding secrets- Write modular functions- Add comments for complex logic
+Pull Request Rules:
+- At least one reviewer required- Automated tests must pass
+Deployment Policy:- Production deployments allowed Monday to Thursday- Allowed between 11:00 AM to 4:00 PM IST- Friday deployments require special approval
+-------------------------------------------
+SMSF Audit Department Knowledge Base
+Common documents:- Trust Deeds- Financial Statements- Investment Reports- Bank Statements- ASIC Company Extracts
+Common audit risks:- Missing signatures- Unsupported valuations- Missing confirmations- Incorrect balances
+Escalate immediately if:- Fraud indicators found- Regulatory breaches suspected
+-------------------------------------------
+Internal IT Support Knowledge Base
+VPN Troubleshooting:
+1. Restart VPN client
+2. Check internet
+3. Re-enter credentials
+4. Contact IT support
+Laptop replacement eligibility:- After 4 years unless severe hardware failure
+Restricted software:
+- Pirated software- Unauthorized remote access tools- Cryptocurrency mining applications
+-------------------------------------------
+Employee Travel Policy
+Reimbursement claims must be submitted within 15 days.
+Eligible expenses:- Flights- Hotels- Local transport- Client meals
+Non-reimbursable:- Personal shopping- Entertainment expenses- Alcohol purchases
+-------------------------------------------
+Learning & Development Policy
+Employees may receive reimbursement for:- Online certifications- Technical workshops- Industry conferences
+Conditions:- Manager approval required- Proof of completion required
+Maximum yearly reimbursement:
+INR 25,000
+-------------------------------------------
+Internship Program Guidelines
+Interns are expected to:- Attend daily standups- Submit weekly updates
+- Maintain documentation- Ask questions actively
+Evaluation criteria:- Technical growth- Communication- Initiative- Ownership
+Outstanding interns may receive full-time offers

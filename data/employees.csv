@@ -1,0 +1,11 @@
+﻿id,name,department,salary,age,experience
+1,Alice,Engineering,120000,26,3
+2,Bob,HR,180000,35,8
+3,Charlie,Engineering,200000,40,12
+4,David,Finance,90000,29,4
+5,Eva,Engineering,170000,31,7
+6,Frank,Marketing,95000,24,2
+7,Grace,HR,220000,45,15
+8,Harry,Engineering,145000,28,5
+9,Ivy,Finance,160000,38,10
+10,Jack,Marketing,110000,27,3

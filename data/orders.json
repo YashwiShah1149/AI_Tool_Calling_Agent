@@ -1,0 +1,39 @@
+{
+  "orders": [
+    {
+      "order_id": "ORD101",
+      "customer_name": "Alice",
+      "product": "Laptop",
+      "amount": 75000,
+      "status": "Delivered"
+    },
+    {
+      "order_id": "ORD102",
+      "customer_name": "Bob",
+      "product": "Mobile",
+      "amount": 25000,
+      "status": "Pending"
+    },
+    {
+      "order_id": "ORD103",
+      "customer_name": "Charlie",
+      "product": "Headphones",
+      "amount": 5000,
+      "status": "Delivered"
+    },
+    {
+      "order_id": "ORD104",
+      "customer_name": "David",
+      "product": "Tablet",
+      "amount": 30000,
+      "status": "Cancelled"
+    },
+    {
+      "order_id": "ORD105",
+      "customer_name": "Eva",
+      "product": "Monitor",
+      "amount": 15000,
+      "status": "Pending"
+    }
+  ]
+}

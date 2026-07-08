@@ -1,0 +1,51 @@
+{
+  "employees": [
+    {
+      "employee_id": 101,
+      "full_name": "Alice Johnson",
+      "role": "Data Scientist",
+      "salary": 125000,
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "SQL"
+      ],
+      "location": "Ahmedabad"
+    },
+    {
+      "employee_id": 102,
+      "full_name": "Bob Smith",
+      "role": "HR Manager",
+      "salary": 175000,
+      "skills": [
+        "Recruitment",
+        "Communication"
+      ],
+      "location": "Mumbai"
+    },
+    {
+      "employee_id": 103,
+      "full_name": "Charlie Brown",
+      "role": "ML Engineer",
+      "salary": 210000,
+      "skills": [
+        "Deep Learning",
+        "PyTorch",
+        "MLOps"
+      ],
+      "location": "Bangalore"
+    },
+    {
+      "employee_id": 104,
+      "full_name": "Eva Wilson",
+      "role": "Business Analyst",
+      "salary": 160000,
+      "skills": [
+        "Power BI",
+        "Excel",
+        "SQL"
+      ],
+      "location": "Pune"
+    }
+  ]
+}
