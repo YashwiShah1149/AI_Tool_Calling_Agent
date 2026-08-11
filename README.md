@@ -1,4 +1,4 @@
-# AI Data Assistant
+# AI_Tool_Calling_Agent
 
 A local AI assistant that answers questions about your data (CSV, JSON, TXT) by planning tool calls with an LLM (via [Ollama](https://ollama.ai) / `llama3:8b`) and executing them in Python.
 
